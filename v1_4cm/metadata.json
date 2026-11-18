@@ -1,0 +1,140 @@
+{
+	"version": "2.0",
+	"name": "v1_4cm",
+	"description": "",
+	"points": 126563096,
+	"projection": "",
+	"hierarchy": {
+		"firstChunkSize": 5632,
+		"stepSize": 4,
+		"depth": 9
+	},
+	"offset": [
+		-46.90927841186524,
+		-96.87245895385742,
+		-10.116465110778808
+	],
+	"scale": [
+		0.01,
+		0.01,
+		0.01
+	],
+	"spacing": 3.9697882163524625,
+	"boundingBox": {
+		"min": [
+			-46.90927841186524,
+			-96.87245895385742,
+			-10.116465110778808
+		],
+		"max": [
+			461.22361328125,
+			411.2604327392578,
+			498.0164265823364
+		]
+	},
+	"encoding": "BROTLI",
+	"attributes": [
+		{
+			"name": "position",
+			"description": "",
+			"size": 12,
+			"numElements": 3,
+			"elementSize": 4,
+			"type": "int32",
+			"min": [
+				-46.89,
+				-96.85000000000001,
+				-10.1
+			],
+			"max": [
+				461.2,
+				374.36,
+				32.01
+			],
+			"scale": [
+				1,
+				1,
+				1
+			],
+			"offset": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "rgb",
+			"description": "",
+			"size": 6,
+			"numElements": 3,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [
+				655,
+				655,
+				655
+			],
+			"max": [
+				65535,
+				65535,
+				65535
+			],
+			"scale": [
+				1,
+				1,
+				1
+			],
+			"offset": [
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"octreeParts": [
+		{
+			"file": "octree_000.bin",
+			"start": 0
+		},
+		{
+			"file": "octree_001.bin",
+			"start": 94917201
+		},
+		{
+			"file": "octree_002.bin",
+			"start": 189887632
+		},
+		{
+			"file": "octree_003.bin",
+			"start": 284860425
+		},
+		{
+			"file": "octree_004.bin",
+			"start": 379839691
+		},
+		{
+			"file": "octree_005.bin",
+			"start": 474839081
+		},
+		{
+			"file": "octree_006.bin",
+			"start": 569823721
+		},
+		{
+			"file": "octree_007.bin",
+			"start": 664798246
+		},
+		{
+			"file": "octree_008.bin",
+			"start": 759790120
+		},
+		{
+			"file": "octree_009.bin",
+			"start": 854789085
+		},
+		{
+			"file": "octree_010.bin",
+			"start": 949784424
+		}
+	]
+}
