@@ -93,48 +93,49 @@
 	],
 	"octreeParts": [
 		{
-			"file": "octree_000.bin",
+			"file": "octree_000.zip",
 			"start": 0
 		},
 		{
-			"file": "octree_001.bin",
+			"file": "octree_001.zip",
 			"start": 94917201
 		},
 		{
-			"file": "octree_002.bin",
+			"file": "octree_002.zip",
 			"start": 189887632
 		},
 		{
-			"file": "octree_003.bin",
+			"file": "octree_003.zip",
 			"start": 284860425
 		},
 		{
-			"file": "octree_004.bin",
+			"file": "octree_004.zip",
 			"start": 379839691
 		},
 		{
-			"file": "octree_005.bin",
+			"file": "octree_005.zip",
 			"start": 474839081
 		},
 		{
-			"file": "octree_006.bin",
+			"file": "octree_006.zip",
 			"start": 569823721
 		},
 		{
-			"file": "octree_007.bin",
+			"file": "octree_007.zip",
 			"start": 664798246
 		},
 		{
-			"file": "octree_008.bin",
+			"file": "octree_008.zip",
 			"start": 759790120
 		},
 		{
-			"file": "octree_009.bin",
+			"file": "octree_009.zip",
 			"start": 854789085
 		},
 		{
-			"file": "octree_010.bin",
+			"file": "octree_010.zip",
 			"start": 949784424
 		}
-	]
+	],
+	"hierarchyFile": "hierarchy.zip"
 }
